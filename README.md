@@ -4,7 +4,7 @@ The data on project is from an external database I created which is on my local 
 If you need to view this project for reference, you also need to have the backend on your machine.
 
 # Link to backend 
-# https://github.com/Gbanya-Michael/plantPeace-backend.
+# https://github.com/Gbanya-Michael/plantPeace-backend
 Contact me for the backend particulars.
 
 # Installation
