@@ -9,7 +9,7 @@ Contact me for the backend particulars.
 
 # Installation
 
-Om your terminal:
+# On your terminal:
 "git clone"
 "yarn install"
 "yarn dev"
